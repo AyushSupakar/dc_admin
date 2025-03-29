@@ -10,5 +10,9 @@ This is an [DC_Admin](https://expo.dev/accounts/ayushsupakar/projects/dc_admin).
 
 3. Complete control and overview for Admin of the entire DC_App
 
+💙 Contact us @ (parasdash91@gmail.com)
+
+![preview img](./assets/images/dc_app.png) 
+![preview img](./assets/images/dc_admin.png) 
 
 
